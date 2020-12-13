@@ -8,3 +8,5 @@ PS接树莓派3.3v
 
 连接后使用sudo i2cdetect -y 1查看IIC地址
 修改对应的ACC_ADDRESS，GYR_ADDRESS，MAG_ADDRESS
+
+datasheet:https://github.com/Nekonlaa/BMX055-raspberry/edit/main/README.md
